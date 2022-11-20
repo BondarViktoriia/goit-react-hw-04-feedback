@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/BondarViktoriia/goit-react-hw-02-feedback/static/css/main.7acaea2f.css",
-    "main.js": "/BondarViktoriia/goit-react-hw-02-feedback/static/js/main.07d3183d.js",
+    "main.js": "/BondarViktoriia/goit-react-hw-02-feedback/static/js/main.ae8b14a7.js",
     "index.html": "/BondarViktoriia/goit-react-hw-02-feedback/index.html",
     "main.7acaea2f.css.map": "/BondarViktoriia/goit-react-hw-02-feedback/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/BondarViktoriia/goit-react-hw-02-feedback/static/js/main.07d3183d.js.map"
+    "main.ae8b14a7.js.map": "/BondarViktoriia/goit-react-hw-02-feedback/static/js/main.ae8b14a7.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.ae8b14a7.js"
   ]
 }
