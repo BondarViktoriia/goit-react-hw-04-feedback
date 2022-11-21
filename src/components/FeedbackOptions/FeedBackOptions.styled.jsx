@@ -2,6 +2,7 @@ import styled from 'styled-components';
 
 export const ButtonContainer = styled.ul`
   text-align: center;
+  margin: auto;
 `;
 
 export const Button = styled.button`
